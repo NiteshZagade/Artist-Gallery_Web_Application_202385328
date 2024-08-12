@@ -1,0 +1,94 @@
+[
+    {
+
+    "title": "Sunset Over the Mountains",
+    "description": "A beautiful painting of a sunset over the mountains.",
+    "dimensions": 21.0,
+    "category": "Painting",
+    "style": "Abstract",
+    "material": "Canvas",
+    "medium": "Oil",
+    "size": 24.0,
+    "orientation": "Horizontal",
+    "price": 1000.00,
+    "rating": 4.5,
+    "imageurl": "http://example.com/images/sunset.jpg",
+    "created_on": "2024-08-07 10:30:00",
+    "created_by": 1
+  },
+
+  {
+
+    "title": "Sunset Over the Ocean",
+    "description": "An updated beautiful painting of a sunset over the ocean.",
+    "dimensions": 24.0,
+    "category": "Drawing",
+    "style": "Fine Art",
+    "material": "Paper",
+    "medium": "Acrylic",
+    "size": 24.0,
+    "orientation": "Horizontal",
+    "price": 600.00,
+    "rating": 5,
+    "imageurl": "http://example.com/images/sunset_ocean.jpg",
+    "created_on": "2024-08-07 10:30:00",
+    "created_by": 1
+  },
+
+  {
+
+    "title": "Sunset",
+    "description": "An updated beautiful painting of a sunset in the city.",
+    "dimensions": 24.0,
+    "category": "Photography",
+    "style": "Realism",
+    "material": "Plastic",
+    "medium": "Digital",
+    "size": 15.0,
+    "orientation": "Horizontal",
+    "price": 7000.00,
+    "rating": 4.8,
+    "imageurl": "http://example.com/images/sunset_ocean.jpg",
+    "created_on": "2024-08-07 10:30:00",
+    "created_by": 2
+
+  }
+
+
+],
+
+[    {
+    "category": "Photography",
+    "created_by": 2,
+    "created_on": "Wed, 07 Aug 2024 10:30:00 GMT",
+    "description": "An updated beautiful painting of a sunset in the city.",
+    "dimensions": 24.0,
+    "imageurl": "http://example.com/images/sunset_ocean.jpg",
+    "material": "Plastic",
+    "medium": "Digital",
+    "modified_by": 2,
+    "orientation": "Horizontal",
+    "price": 8000.0,
+    "rating": 4.8,
+    "size": 15.0,
+    "style": "Realism",
+    "title": "Sunset in the city center"
+}
+
+{
+    "artwork_id": 101,
+    "quantity": 2,
+    "price": 150.0,
+    "created_on": "2024-08-07 10:30:00",
+    "created_by": 1
+}
+{
+    "artwork_id": 102,
+    "quantity": 2,
+    "price": 150.0,
+    "created_on": "2024-08-07 10:30:00",
+    "created_by": 1
+}
+  
+]
+  
